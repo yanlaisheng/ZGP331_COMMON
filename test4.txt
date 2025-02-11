@@ -1,8 +1,3 @@
-main()
-{
-    
-}
-
 if(Pw_EquipmentType==0)//双驱泵
 {
 
